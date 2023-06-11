@@ -1,0 +1,32 @@
+[
+  {
+    "template_id": "1407163784197367352",
+    "template_name": "HR ITI Joining",
+    "message": "Dear Candidate, you are selected for TRADE Apprenticeship Training at BHEL, Ranipet. Kindly report for Joining on {#var#}, ({#var#}), {#var#}, at HRDC (Through Main Gate) with the following Certificates (a) Portal reg no, (b) TC, (c) Community certificate, (d) 10th, (e) ITI over all marksheet, (f) ITI NCVT(or) NTC, (g) Aadhar Card (h)State Bank or any Nationalized bank Savings Pass Book front page, (i) 4 Pass port size, 4 Stamp Size photos. (Original + Xerox 3 copies). Pl scan all the certificates for your future requirement. Call letter will not be send. Kindly wear Kakki uniform, black shoe and mask. Verify your E-mail. With Regards, HRDC, BHEL, Ranipet. Phone : 04172 - 284543, 284027"
+  },
+  {
+    "template_id": "1407163784185340448",
+    "template_name": "HR ITI Personal Interview",
+    "message": "Dear Candidate, You are shortlisted for Trade Apprenticeship Training Personal Interview which is scheduled on {#var#}, ({#var#}), from {#var#}, to {#var#}, at {#var#}, BAP, BHEL, Ranipet. Bring all original certificates and 1 set Xerox copies. Kindly verify your E-mail. With Regards, HRDC, BHEL, Ranipet. Ph:04172 - 284543, 284027."
+  },
+  {
+    "template_id": "1407163784181140618",
+    "template_name": "HR ITI Selection Exam",
+    "message": "Dear Candidate, Trade Apprentice Selection Exam is on {#var#}, ({#var#}), from {#var#}, to {#var#}, at {#var#}.Check your E-mail for further information and Hall Ticket will be send to your address through post. For clarifications (if any) Contact: {#var#}, Human Resource Development Centre, Bharat Heavy Electricals Limited, Boiler Auxiliaries Plant, Ranipet 632 406,Tamil Nadu, Phone No. : 04172 - 284543, 284027"
+  },
+  {
+    "template_id": "1407163784164749790",
+    "template_name": "HR ITI Sending Resume",
+    "message": "Dear Candidate, BAP,BHEL,Ranipet is inviting application for Trade Apprenticeship Training. Send Bio data along with Xerox copies of Portal reg no, TC,Community certificate, 10th mark sheet, ITI over all marksheet, ITI NCVT (or) NTC, Aadhar Card on or before {#var#}, To, The {#var#}, HRDC, Boiler Auxiliaries Plant, Bharat Heavy Electricals Limited,Ranipet-632 406, PH: 04172- 284543, 284027. Office Time: From {#var#}, to {#var#}"
+  },
+  {
+    "template_id": "1407161787713191328",
+    "template_name": "HRDC Tech App Joining",
+    "message": "Dear Candidate, you are selected for TECHNICIAN Apprenticeship Training at BHEL, Ranipet. Kindly report for Joining on {#var#}, {#var#}hrs at HRDC with the following Certificates (a)10 th or HSC mark sheet  (b)Diploma Consolidation Marksheet  (c)Diploma Provisional / Degree Certificate (d) TC  (d)Community certificate  (e) State Bank/Nationalized Bank Savings Pass Book front page (f) Aaadhar Card  (g) 4 Pass port size ,4 Stamp Size photos. (Original + Xerox 2 copies). Pl scan all the certificates for your future requirement. Kindly check your mail. For details please contact 04172 284238. From: DM/HRDC/BHEL/RANIPET 632406."
+  },
+  {
+    "template_id": "1407161794250229429",
+    "template_name": "Test",
+    "message": "Hello{#var#}{#var#}"
+  }
+]
